@@ -14,4 +14,4 @@ Bu platform, HTML5'in sağladığı yapısallık ve içerik düzenleme yetenekle
  <h3>Ekran Görüntüsü</h3>
 
  ![](ekran-görüntüsü.gif)
- 
+ ![ekran görüntüsü](https://github.com/Ugurtasci/player-js/assets/146867143/55a78fd7-fdd3-4a9e-81f0-52513c23bf57)
